@@ -1,5 +1,5 @@
 const marvelURL = 'https://gateway.marvel.com/v1/public/',
-  apiKey = `apikey=${process.env.REACT_APP_PUBLIC_API_KEY}`;
+  apiKey = `apikey=321784fce659ab4f5c4c4449585d9219`;
 
 const getMarvelCharacters = (options) => {
   const {
